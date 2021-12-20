@@ -1,0 +1,11 @@
+Biswas, Apurva. “On Enhancement of Number Plate Recognition Based on Artificial Neural Network.” (2016).
+
+Bhushan, Bharat et al. “License Plate Recognition System using Neural Networks and Multithresholding Technique.” (2013).
+
+J. Sharma, A. Mishra, K. Saxena and S. Kumar, "A hybrid technique for License Plate Recognition based on feature selection of wavelet transform and artificial neural network," 
+2014 International Conference on Reliability Optimization and Information Technology (ICROIT), Faridabad, 2014, pp. 347-352.
+
+Wu Wei, Yuzhi Li, Mingjun Wang and Zhongxiang Huang, "Research on number-plate recognition based on neural networks," Neural Networks for Signal Processing XI:
+ Proceedings of the 2001 IEEE Signal Processing Society Workshop (IEEE Cat. No.01TH8584), North Falmouth, MA, USA, 2001, pp. 529-538.
+
+Kaur, Sarbjit & Kaur, Sukhvir. (2014). An Efficient Approach for Number Plate Extraction from Vehicles Image under Image Processing. 
